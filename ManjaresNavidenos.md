@@ -1,11 +1,18 @@
+<div align="center">
+
+<img src="https://solorecetas.com/wp-content/uploads/2008/02/flan-de-vainilla.jpg" width=520 height=374 />
+  
 # Manjares Navideños
 ## Flan de vainilla
+
+</div>
+  
 ### Ingredientes: 
-- 🥚5 huevos 
-- 🥛1 lata de 12 onzas de leche evaporada, sin diluir
-- 🥛1 lata de 14 onzas de leche condensada
-- 🥄2 cucharadas de extracto vainilla
-- 🍵1 taza de azúcar (para acaramelar el molde)
+- 🥚*5* huevos 
+- 🥛*1* lata de *12* onzas de leche evaporada, sin diluir 
+- 🥛*1* lata de *14* onzas de leche condensada
+- 🥄*2* cucharadas de extracto vainilla
+- 🍵*1* taza de azúcar (para acaramelar el molde)
 - ### preparación
 - 1. Calienta el horno a 350 F
 - 2. En una cacerola caliente el azucar a fuego moderado, revolviendo constantemente hasta que derrita el azúcar tome un color dorado claro
