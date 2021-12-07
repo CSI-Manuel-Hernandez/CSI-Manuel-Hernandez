@@ -21,5 +21,9 @@
 - 5. Cuando el moldeeste frio del caramelo cuele la mezcla de los ingredientes en el molde y pongalo en un "baño de maria" por 45 minutes a 350 grados
 - 6. Para saber si esta listo introduzca un cuchillo en el centro del flan y si sale limpio saque el flan del horno
 - 7. Deje el flan enfriar y coloque en la nevera por lo menos una hora antes de servir
+### video de la receta
+-https://www.youtube.com/watch?v=JivHBKwX1R8
+<br>
+
 ### referencias
 https://welcome.topuertorico.org/cocina/flan.shtml
